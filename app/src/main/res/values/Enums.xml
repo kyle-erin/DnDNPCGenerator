@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="Races" format="enum">
+        <enum name="Unknown" value="0"/>
+        <enum name="Elf" value="1"/>
+        <enum name="Orc" value="2"/>
+        <enum name="Dwarf" value="3"/>
+        <enum name="Troll" value="4"/>
+        <enum name="Tauren" value="5"/>
+        <enum name="Gnome" value="6"/>
+        <enum name="Human" value="7"/>
+    </attr>
+    <attr name="Gender" format="enum">
+        <enum name="Unknown" value="0"/>
+        <enum name="Female" value="1"/>
+        <enum name="Male" value="2"/>
+    </attr>
+    <attr name="Class" format="enum">
+        <enum name="Unknown" value="0"/>
+        <enum name="Warrior" value="1"/>
+        <enum name="Cleric" value="2"/>
+        <enum name="Bard" value="3"/>
+        <enum name="Mage" value="4"/>
+    </attr>
+</resources>
